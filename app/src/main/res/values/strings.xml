@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVVM+RxJava+LiveData+DataBinding Demo</string>
+    <string name="zomatoApiKey">8a13280873a0f21dffaee2b028dee19a</string>
+    <string name="base_url">https://developers.zomato.com</string>
+</resources>
